@@ -1,4 +1,4 @@
 # git-github
-Repositório para atividade de Eng.Software
+Repositório para atividade de Eng.Software!
 
-aprendendo comandos do git
+aprendendo comandos do git!
