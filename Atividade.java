@@ -11,5 +11,10 @@ public class Atividade {
          * 
          */
     }
+     public void Notas(){
+        /*
+         * 
+         */
+    }
 }
     
